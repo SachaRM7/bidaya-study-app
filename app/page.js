@@ -109,7 +109,7 @@ const CHAPTERS = [
       },
       {
         q: "Les peaux des bêtes mortes sont-elles pures ?",
-        a: "Oui, après tannage (dibāgh).",
+        a: "Oui, après tannage (dibāgh), sauf le chien et le porc.",
       },
       {
         q: "Combien de choses sont harâm lors de qaḍā' al-ḥāja ?",
@@ -153,7 +153,7 @@ const CHAPTERS = [
       },
       {
         q: "Quelles sont les 6 obligations du wuḍū' ?",
-        a: "Laver le visage, laver les mains/avant-bras aux coudes, essuyer la tête et oreilles, laver les pieds aux chevilles, le tartīb (ordre), la muwālāt (enchaînement).",
+        a: "Laver le visage (de la basmala au nez), laver les mains/avant-bras aux coudes en passant les doigts entre les doigts (تخليل الأصابع), essuyer la tête et oreilles, laver les pieds aux chevilles en passant les doigts entre les orteils (تخليل الأصابع), le tartīb (ordre), la muwālāt (enchaînement).",
       },
       {
         q: "Combien de conditions de validité pour le wuḍū' ?",
@@ -180,8 +180,8 @@ const CHAPTERS = [
         a: "1. Le khitān (circoncision), 2. L'istiḥdād (raser le pubis), 3. Le natf al-ibṭ (épiler les aisselles), 4. Le qass al-shārib (tailler la moustache), 5. Le taqlīm al-aẓfār (couper les ongles).",
       },
       {
-        q: "Combien de temps dure le masḥ sur les khuff ?",
-        a: "Résident : 1 jour et 1 nuit. Voyageur : 3 jours et 3 nuits.",
+        q: "Combien de temps dure le masḥ sur les khuff et quelle est la condition de couverture ?",
+        a: "Résident : 1 jour et 1 nuit. Voyageur : 3 jours et 3 nuits. Le khuff doit couvrir la majorité de la zone farḍ (awra).",
       },
       {
         q: "Quels sont les 3 types de sang qui sortent de la femme ?",
@@ -194,6 +194,74 @@ const CHAPTERS = [
       {
         q: "Après l'arrêt du sang et avant le ghusl, combien de choses redeviennent permises ?",
         a: "3 choses : le jeûne, le divorce, et rester dans la mosquée avec wuḍū' (المكث في المسجد بوضوء).",
+      },
+      {
+        q: "Quels animaux sont exclus de la purification par tannage ?",
+        a: "Le chien et le porc.",
+      },
+      {
+        q: "Que fait-on avec les récipients avant de dormir ?",
+        a: "Il est sunna de les couvrir, fermer les outres, fermer les portes, et mentionner le nom d'Allah dessus.",
+      },
+      {
+        q: "Quel est le premier des khiṣāl al-fiṭra dans le livre ?",
+        a: "Le khitān (circoncision), pas l'istiḥdād.",
+      },
+      {
+        q: "Combien de sunan a le wuḍū' dans le livre ?",
+        a: "10 sunan.",
+      },
+      {
+        q: "Cite les 3 sunan du wuḍū' qui manquaient dans l'appli.",
+        a: "Luver les paumes (ghusl al-kaffayn), exagérer le rinçage bouche/nez sauf pour le jeûneur (المبالغة فيهما لغير الصائم), passer les doigts dans la barbe épaisse (تخليل اللحية الكثيفة).",
+      },
+      {
+        q: "Le jeûneur doit-il exagérer le rinçage de la bouche et du nez ?",
+        a: "Non, l'exagération est sunna sauf pour le jeûneur.",
+      },
+      {
+        q: "Quelle est la condition du khuff concernant la couverture du pied ?",
+        a: "Qu'il couvre la majorité de la zone farḍ (awra), pas simplement jusqu'aux chevilles.",
+      },
+      {
+        q: "'Laver un mort' fait-il partie des annulatifs du wuḍū' dans le livre ?",
+        a: "Non. Le 5ème annulatif est la rencontre des deux circoncisions (التقاء الختانين — pénétration).",
+      },
+      {
+        q: "Combien de ḍawābiṭ a le chapitre du ghusl ?",
+        a: "5 ḍawābiṭ.",
+      },
+      {
+        q: "Combien de ghusl recommandés y a-t-il ?",
+        a: "9 ghusl recommandés.",
+      },
+      {
+        q: "Cite 4 ghusl recommandés.",
+        a: "Jumu'a, après avoir lavé un mort, les deux 'īd, après un évanouissement, après la folie, la mustaḥāḍa pour chaque prière, pour l'iḥrām, pour l'entrée à La Mecque, pour la station à 'Arafa.",
+      },
+      {
+        q: "Que dit le livre sur le lavage des pieds dans les sunan du ghusl ?",
+        a: "Les laver dans un autre endroit (ghusl al-rijlayn bi-makān ākhar), pas « à la fin ».",
+      },
+      {
+        q: "Jusqu'où essuie-t-on les mains dans le tayammum selon le livre ?",
+        a: "Jusqu'aux poignets (الرسغين).",
+      },
+      {
+        q: "Combien d'annulatifs a le tayammum ?",
+        a: "3 annulatifs : les annulatifs du wuḍū', la présence d'eau, la disparition de l'excuse (zawāl al-mubīḥ).",
+      },
+      {
+        q: "L'impureté (najāsa) peut-elle être enlevée autrement qu'avec de l'eau ?",
+        a: "Oui, son statut disparaît avec la disparition de sa substance même sans eau (بغير ماء).",
+      },
+      {
+        q: "Combien de choses sont interdites pendant le ḥayḍ ?",
+        a: "7 choses : rapport intime, divorce, prière, jeûne, ṭawāf, rester dans la mosquée, toucher le muṣḥaf.",
+      },
+      {
+        q: "Quelle est la 3ème chose permise après l'arrêt du sang et avant le ghusl ?",
+        a: "Rester dans la mosquée avec wuḍū' (المكث في المسجد بوضوء).",
       },
     ],
     quiz: [
@@ -219,7 +287,62 @@ const CHAPTERS = [
       },
       {
         question: "Les peaux des bêtes mortes sont-elles pures ?",
-        options: ["Non, jamais", "Oui, après tannage (dibāgh)", "Seules celles des ruminants", "Uniquement après lavage"],
+        options: ["Non, jamais", "Oui, après tannage (dibāgh), sauf le chien et le porc", "Seules celles des ruminants", "Uniquement après lavage"],
+        correct: 1,
+      },
+      {
+        question: "Que fait-on avec les récipients avant de dormir ?",
+        options: ["Les vider", "Il est sunna de les couvrir, fermer les outres, fermer les portes, et mentionner le nom d'Allah", "Les laver", "Les brûler"],
+        correct: 1,
+      },
+      {
+        question: "Quel est le premier des khiṣāl al-fiṭra dans le livre ?",
+        options: ["L'istiḥdād", "Le khitān (circoncision)", "Le natf al-ibṭ", "Le qass al-shārib"],
+        correct: 1,
+      },
+      {
+        question: "Combien de sunan a le wuḍū' dans le livre ?",
+        options: ["7", "8", "9", "10"],
+        correct: 3,
+      },
+      {
+        question: "Le jeûneur doit-il exagérer le rinçage de la bouche et du nez ?",
+        options: ["Oui, toujours", "Non, l'exagération est sunna sauf pour le jeûneur", "Oui, uniquement pendant le ramadan", "Non, jamais"],
+        correct: 1,
+      },
+      {
+        question: "Quelle est la condition du khuff concernant la couverture du pied ?",
+        options: ["Qu'il couvre jusqu'aux orteils", "Qu'il couvre la majorité de la zone farḍ (awra)", "Qu'il couvre la cheville", "Pas de condition spécifique"],
+        correct: 1,
+      },
+      {
+        question: "'Laver un mort' fait-il partie des annulatifs du wuḍū' dans le livre ?",
+        options: ["Oui", "Non — le 5ème annulatif est la rencontre des deux circoncisions", "Oui, selon un avis", "C'est le 6ème annulatif"],
+        correct: 1,
+      },
+      {
+        question: "Combien de ḍawābiṭ a le chapitre du ghusl ?",
+        options: ["3", "4", "5", "6"],
+        correct: 2,
+      },
+      {
+        question: "Combien de ghusl recommandés y a-t-il ?",
+        options: ["7", "8", "9", "11"],
+        correct: 2,
+      },
+      {
+        question: "Que dit le livre sur le lavage des pieds dans les sunan du ghusl ?",
+        options: ["Les laver à la fin", "Les laver dans un autre endroit", "Les laver avec le reste du corps", "Ne pas les laver"],
+        correct: 1,
+      },
+      {
+        question: "Jusqu'où essuie-t-on les mains dans le tayammum selon le livre ?",
+        options: ["Jusqu'aux coudes", "Jusqu'aux poignets (الرسغين)", "Jusqu'aux doigts", "Jusqu'au poignet seulement"],
+        correct: 1,
+      },
+      {
+        question: "Combien d'annulatifs a le tayammum ?",
+        options: ["2", "3", "4", "5"],
         correct: 1,
       },
       {
@@ -258,8 +381,8 @@ const CHAPTERS = [
         correct: 1,
       },
       {
-        question: "L'impureté (najāsa) disparaît-elle si l'odeur ou la couleur persiste ?",
-        options: ["Non, jamais", "Oui, avec la disparition de sa substance", "Non, il faut que tout disparaisse", "Cela dépend du type d'impureté"],
+        question: "L'impureté (najāsa) peut-elle disparaître sans eau ?",
+        options: ["Non, jamais", "Oui, avec la disparition de sa substance même sans eau", "Non, il faut toujours de l'eau", "Uniquement avec beaucoup d'eau"],
         correct: 1,
       },
       {
