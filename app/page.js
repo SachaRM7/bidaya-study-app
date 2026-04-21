@@ -479,7 +479,7 @@ const CHAPTERS = [
         title: "Bāb al-Adhān wa al-Iqāma",
         dapibt: "2 ضوابط",
         content:
-          "Ḍābiṭ 1 — Conditions de validité de l'adhān (10) :\n1. La niyya.\n2. Être musulman.\n3. Être de sexe masculin.\n4. Après l'entrée du temps (sauf pour le fajr).\n5. Le tartīb (ordre).\n6. La muwālāt.\n7. Connaître les horaires.\n8. Être sur un lieu élevé.\n9. Être debout.\n10. En élevant la voix, les doigts dans les oreilles.\n\nḌābiṭ 2 — Sunan de l'adhān : se tourner à droite et à gauche pour « ḥayya 'alā al-ṣalāt / ḥayya 'alā al-falāḥ ».",
+          "Ḍābiṭ 1 — Shurūṭ de l'adhān (10) :\n1. La niyya.\n2. Être musulman.\n3. Être de sexe masculin.\n4. Être doué de raison.\n5. Avoir le discernement (tamyīz).\n6. Être capable de parler (nāṭiq).\n7. Faire l'adhān après l'entrée du temps (sauf pour le fajr).\n8. Faire l'adhān en solitaire (من واحد).\n9. Le tartīb (ordre).\n10. La muwālāt (enchaînement).\n\nḌābiṭ 2 — Sunan de l'adhān (10) :\n1. Avoir une belle voix (حسن الصوت).\n2. Être digne de confiance (أمين).\n3. Connaître les horaires de prière (عالما بالوقت).\n4. Être en état de pureté des deux hadath (متطهرا من الحدثين).\n5. Être debout (قائما).\n6. Être sur un lieu élevé (على علو).\n7. Lever le visage et mettre les doigts dans les oreilles (رافعا وجهه جاعلا أصبعيه في أذنيه).\n8. Être face à la qibla (مستقبلا القبلة).\n9. Se tourner à droite et à gauche pour les deux ḥay'alatain (ملتفتا يمينا وشمالا في الحيعلتين).\n10. Faire l'adhān au début du temps (أن يكون في أول الوقت).",
       },
       {
         bab: "باب شروط الصلاة",
@@ -493,14 +493,14 @@ const CHAPTERS = [
         title: "Bāb Aḥkām al-Ṣalāt — Règles de la prière",
         dapibt: "7 ضوابط",
         content:
-          "Ḍābiṭ 1 — Conditions d'obligation de la prière (5) :\n1. L'islam.\n2. La raison.\n3. La puberté (bulūgh).\n4. L'absence de menstrues/lochies.\n5. Parvenance de l'appel.\n\nḌābiṭ 2 — Les piliers (arkān) de la prière (14) :\n1. Le qiyām (station debout).\n2. Takbīrat al-iḥrām.\n3. Récitation de la Fātiḥa.\n4. Le rukū' (inclinaison).\n5. Le relèvement du rukū'.\n6. L'i'tidāl (se tenir droit debout).\n7. Le sujūd (prosternation).\n8. Le relèvement du sujūd.\n9. La position assise entre les 2 prosternations.\n10. La ṭuma'nīna (sérénité) dans tous.\n11. Le tashahhud final.\n12. La position assise pour le taslīm.\n13. Le premier taslīm.\n14. Le tartīb (ordre).\n\nḌābiṭ 3 — Les actes obligatoires (wājibāt) de la prière (8) :\n1. Les takbīrāt de transition.\n2. Le tasbīḥ du rukū' (subḥāna rabbiya al-'aẓīm) 1 fois.\n3. Sami'a Allāhu li-man ḥamidah.\n4. Rabbanā wa laka al-ḥamd.\n5. Le tasbīḥ du sujūd (subḥāna rabbiya al-a'lā) 1 fois.\n6. Rabbi ighfir lī entre les 2 sujūd.\n7. Le tashahhud al-awwal.\n8. La position assise pour le tashahhud al-awwal.\n\nḌābiṭ 4 — Sunan des paroles (13) :\n1. Du'ā' al-istiftāḥ.\n2. L'isti'ādha.\n3. La basmala.\n4. Le ta'mīn (āmīn).\n5. La récitation d'une sourate après la Fātiḥa.\n6. Le takbīr de la récitation (pour l'imam).\n7. Ce qui dépasse 1 fois dans le tasbīḥ du rukū'.\n8. Ce qui dépasse « rabbanā wa laka al-ḥamd ».\n9. Ce qui dépasse 1 fois dans le tasbīḥ du sujūd.\n10. Ce qui dépasse « rabbi ighfir lī » entre les sujūd.\n11. L'isti'ādha des 4 choses après le tashahhud final.\n12. Le second taslīm.\n13. Prier sur le Prophète ﷺ dans le tashahhud.\n\nḌābiṭ 5 — Sunan des actes (18) :\n1. Lever les mains dans 4 positions.\n2. Poser la droite sur la gauche sur la poitrine.\n3. Regarder vers le lieu de prosternation.\n4. Saisir les genoux dans le rukū'.\n5. Étendre le dos et aligner la tête dans le rukū'.\n6. Poser les 7 membres de prosternation au sol.\n7. Écarter les bras du corps dans le sujūd.\n8. Écarter les cuisses du ventre.\n9. Écarter les cuisses des jambes.\n10. Orienter les orteils vers la qibla.\n11. Poser les mains à hauteur des épaules, doigts joints.\n12. L'iftirāsh entre les 2 sujūd et dans le 1er tashahhud.\n13. Le tawarruk dans le tashahhud final.\n14. Poser les mains sur les cuisses, doigts joints.\n15. Faire un anneau avec le pouce et le majeur dans les 2 tashahhud.\n16. Pointer l'index droit dans les 2 tashahhud.\n17. L'iltifāt à droite et à gauche pour les 2 taslīm.\n18. Être bref dans la position assise entre les 2 sujūd.",
+          "Ḍābiṭ 1 — Conditions d'obligation de la prière (5) :\n1. L'islam.\n2. La raison.\n3. La puberté (bulūgh).\n4. L'absence de menstrues (ḥayḍ).\n5. L'absence de lochies (nifās).\n\nḌābiṭ 2 — Les piliers (arkān) de la prière (14) :\n1. Le qiyām (station debout).\n2. Takbīrat al-iḥrām.\n3. Récitation de la Fātiḥa.\n4. Le rukū' (inclinaison).\n5. Le relèvement du rukū'.\n6. L'i'tidāl (se tenir droit debout).\n7. Le sujūd (prosternation).\n8. Le relèvement du sujūd.\n9. La position assise entre les 2 prosternations.\n10. La ṭuma'nīna (sérénité) dans tous.\n11. Le tashahhud final.\n12. La position assise pour le taslīm.\n13. Le premier taslīm.\n14. Le tartīb (ordre).\n\nḌābiṭ 3 — Les actes obligatoires (wājibāt) de la prière (8) :\n1. Les takbīrāt de transition.\n2. Le tasbīḥ du rukū' (subḥāna rabbiya al-'aẓīm) 1 fois.\n3. Sami'a Allāhu li-man ḥamidah.\n4. Rabbanā wa laka al-ḥamd.\n5. Le tasbīḥ du sujūd (subḥāna rabbiya al-a'lā) 1 fois.\n6. Rabbi ighfir lī entre les 2 sujūd.\n7. Le tashahhud al-awwal.\n8. La position assise pour le tashahhud al-awwal.\n\nḌābiṭ 4 — Sunan des paroles (12) :\n1. Du'ā' al-istiftāḥ.\n2. L'isti'ādha.\n3. Le ta'mīn (āmīn).\n4. La récitation d'une sourate après la Fātiḥa.\n5. Lire à voix haute dans les prières à voix haute (al-jahr fī al-jahriyya).\n6. Lire à voix basse dans les prières silencieuses (al-isskār fī al-sirriyya).\n7. Ce qui dépasse 1 fois dans le tasbīḥ du rukū'.\n8. Ce qui dépasse « rabbanā wa laka al-ḥamd ».\n9. Ce qui dépasse 1 fois dans le tasbīḥ du sujūd.\n10. Ce qui dépasse « rabbi ighfir lī » entre les sujūd.\n11. L'isti'ādha des 4 choses après le tashahhud final.\n12. Le second taslīm.\n\nḌābiṭ 5 — Sunan des actes (18) :\n1. Lever les mains dans 4 positions.\n2. Poser la droite sur la gauche sur la poitrine.\n3. Regarder vers le lieu de prosternation.\n4. Saisir les genoux dans le rukū'.\n5. Étendre le dos et aligner la tête dans le rukū'.\n6. Poser les 7 membres de prosternation au sol.\n7. Poser le front directement sur le lieu de prosternation.\n8. Écarter les bras du corps dans le sujūd.\n9. Écarter les cuisses du ventre.\n10. Écarter les cuisses des jambes.\n11. Orienter les orteils vers la qibla.\n12. Poser les mains à hauteur des épaules, doigts joints.\n13. L'iftirāsh entre les 2 sujūd et dans le 1er tashahhud.\n14. Le tawarruk dans le tashahhud final.\n15. Poser les mains sur les cuisses, doigts joints.\n16. Faire un anneau avec le pouce et le majeur dans les 2 tashahhud.\n17. Pointer l'index droit dans les 2 tashahhud.\n18. Se tourner à droite et à gauche pour les 2 taslīm (الالتفات في التسليمتين).",
       },
       {
         bab: "مكروهات الصلاة ومبطلاتها",
         title: "Makrūhāt et Mubṭilāt",
         dapibt: "2 parties",
         content:
-          "Ḍābiṭ 6 — Choses détestables dans la prière (19 makrūhāt) :\n1. Délaisser une sunna volontairement.\n2. Se retourner sans besoin.\n3. Faire craquer les doigts.\n4. Retrousser le vêtement ou les cheveux.\n5. Prier quand le repas est servi.\n6. Prier en retenant les 2 akhbathayn (urine/selles).\n7. Sans sutra pour l'imam et celui qui prie seul.\n8. Le sadl (laisser pendre le vêtement).\n9. Cracher vers la qibla ou à sa droite.\n10. Lever le regard au ciel.\n… et d'autres.\n\nḌābiṭ 7 — Ce qui annule la prière (mubṭilāt) :\n1. Délaisser volontairement un rukn ou une condition sans excuse.\n2. Manger ou boire volontairement.\n3. Parler volontairement.\n4. Beaucoup de mouvements étrangers à la prière.\n5. Ajouter volontairement un rukn (acte physique).\n6. Passage d'une femme pubère, d'un âne ou d'un chien noir devant le lieu de prosternation.\n7. Prier derrière un imam dont l'imāma n'est pas valable.",
+          "Ḍābiṭ 6 — Choses détestables dans la prière (19 makrūhāt) :\n1. Délaisser une sunna volontairement.\n2. Se retourner sans besoin.\n3. Étaler les avant-bras au sol (افتراش ذراعيه).\n4. L' العبث (jouer avec ses mains/doigts).\n5. تخصر — mettre les mains sur les hanches.\n6. Le bâillement.\n7. استقبال صورة — faire face à une image.\n8. قرقعة الأصابع — faire craquer les doigts.\n9. تشبيكهما — entrelacer les doigts.\n10. لبس ثوب معلم — porter un vêtement à motifs/signes.\n11. Retrousser le vêtement ou les cheveux.\n12. مسح أثر السجود — essuyer la trace du sujūd avant la fin.\n13. بحضرة الطعام — prier en présence de nourriture.\n14. مع مدافعة الأخبثين — prier en retenant urine/selles.\n15. Sans sutra pour l'imam et celui qui prie seul.\n16. Le sadl (laisser pendre le vêtement).\n17. تغطية الفم — couvrir la bouche.\n18. Cracher vers la qibla ou à sa droite.\n19. Lever le regard au ciel.\n\nḌābiṭ 7 — Ce qui annule la prière (mubṭilāt) :\n1. Délaisser volontairement un rukn ou une condition sans excuse.\n2. Manger ou boire volontairement.\n3. Parler volontairement.\n4. Beaucoup de mouvements étrangers à la prière.\n5. Ajouter volontairement un rukn (acte physique).\n6. Passage d'une femme pubère, d'un âne ou d'un chien noir devant le lieu de prosternation.\n7. Prier derrière un imam dont l'imāma n'est pas valable.",
       },
       {
         bab: "باب سجود السهو",
@@ -514,14 +514,14 @@ const CHAPTERS = [
         title: "Bāb Ṣalāt al-Jamā'a — La prière en groupe",
         dapibt: "3 ضوابط",
         content:
-          "Ḍābiṭ 1 — Ce que l'imam prend en charge pour le ma'mūm (6) :\n1. La récitation de la Fātiḥa (dans les prières à voix haute — divergence).\n2. Le sujūd al-sahw.\n3. Le sujūd al-tilāwa.\n4. La sutra.\n5. Le du'ā' du qunūt.\n6. Le tashahhud al-awwal pour le masbūq.\n\nḌābiṭ 2 — Les 4 positions du ma'mūm par rapport à l'imam :\n1. Musāwāt (prier en même temps) → makrūh.\n2. Takhalluf (retard) → makrūh.\n3. Musābaqa (devancer) → ḥarām.\n4. Mutāba'a (suivre) → c'est la sunna.\n\nḌābiṭ 3 — Excuses pour manquer la jumu'a et la jamā'a (7) :\n1. La maladie.\n2. La peur.\n3. S'occuper d'un malade.\n4. Craindre pour ses biens.\n5. La pluie forte ou le vent violent.\n6. L'imam prolonge trop la prière.\n7. L'imam raccourcit trop la prière.",
+          "Ḍābiṭ 1 — Ce que l'imam prend en charge pour le ma'mūm (6) :\n1. La récitation de la Fātiḥa pour le masbūq.\n2. Le sujūd al-sahw.\n3. Le sujūd al-tilāwa.\n4. La sutra.\n5. Le du'ā' du qunūt.\n6. Le tashahhud al-awwal pour le masbūq.\n\nḌābiṭ 2 — Les 4 positions du ma'mūm par rapport à l'imam :\n1. Musāwāt (prier en même temps) → makrūh.\n2. Takhalluf (retard) → makrūh.\n3. Musābaqa (devancer) → ḥarām.\n4. Mutāba'a (suivre) → c'est la sunna.\n\nḌābiṭ 3 — Excuses pour manquer la jumu'a et la jamā'a (7) :\n1. La maladie.\n2. La peur.\n3. Retenir l'un des deux akhbathayn (المدافعة لأحد الأخبثين — urine/selles).\n4. Craindre pour ses biens.\n5. La pluie forte ou le vent violent.\n6. L'imam prolonge trop la prière.\n7. L'imam raccourcit trop la prière.",
       },
       {
         bab: "باب صلاة الجمعة",
         title: "Bāb Ṣalāt al-Jumu'a — La prière du vendredi",
         dapibt: "2 ضوابط",
         content:
-          "Ḍābiṭ 1 — Conditions d'obligation de la jumu'a (6) :\n1. L'islam.\n2. La puberté.\n3. Être de sexe masculin.\n4. La liberté.\n5. La résidence.\n6. L'absence d'excuse valable.\n\nḌābiṭ 2 — Conditions de validité de la jumu'a :\n1. Les conditions de validité de la prière.\n2. L'entrée du temps.\n3. Le nombre requis.\n4. Les deux khuṭba.",
+          "Ḍābiṭ 1 — Conditions d'obligation de la jumu'a (5) :\n1. L'islam.\n2. La puberté (taklīf).\n3. Être de sexe masculin.\n4. La liberté.\n5. L'absence d'excuse valable.\n\nḌābiṭ 2 — Conditions de validité de la jumu'a (3) :\n1. Les conditions de validité de la prière.\n2. Le nombre requis.\n3. Les deux khuṭba.",
       },
     ],
     flashcards: [
@@ -539,7 +539,7 @@ const CHAPTERS = [
       },
       {
         q: "Conditions d'obligation de la prière ?",
-        a: "5 : islam, raison, puberté, absence de menstrues/lochies, parvenance de l'appel.",
+        a: "5 : islam, raison, puberté, absence de menstrues (ḥayḍ), absence de lochies (nifās).",
       },
       {
         q: "Quand fait-on le sujūd al-sahw AVANT le salām ?",
@@ -554,12 +554,12 @@ const CHAPTERS = [
         a: "La mutāba'a (suivre l'imam). La musābaqa (devancer) est ḥarām.",
       },
       {
-        q: "Combien de conditions pour l'adhān ?",
-        a: "10 : niyya, musulman, homme, après l'heure (sauf fajr), tartīb, muwālāt, connaître les horaires, lieu élevé, debout, voix forte.",
+        q: "Combien de shurūṭ pour l'adhān et lesquels ?",
+        a: "10 shurūṭ : niyya, islam, الذكورة (homme), عقل, tamyīz, ناطق (pouvoir parler), après l'heure (sauf fajr), من واحد (seul), tartīb, muwālāt.",
       },
       {
         q: "Conditions d'obligation de la jumu'a ?",
-        a: "6 : islam, puberté, sexe masculin, liberté, résidence, absence d'excuse.",
+        a: "5 : islam, puberté (taklīf), sexe masculin, liberté, absence d'excuse.",
       },
       {
         q: "Combien de sunan des actes dans la prière ?",
@@ -598,9 +598,24 @@ const CHAPTERS = [
         correct: 2,
       },
       {
-        question: "L'adhān a combien de conditions ?",
+        question: "L'adhān a combien de shurūṭ ?",
         options: ["6", "8", "10", "12"],
         correct: 2,
+      },
+      {
+        question: "Combien de sunan qawliyya dans la prière ?",
+        options: ["10", "12", "13", "15"],
+        correct: 1,
+      },
+      {
+        question: "Combien de makrūhāt dans la prière ?",
+        options: ["10", "15", "19", "21"],
+        correct: 2,
+      },
+      {
+        question: "Combien de conditions d'obligation pour la jumu'a ?",
+        options: ["4", "5", "6", "7"],
+        correct: 1,
       },
       {
         question: "Parler volontairement dans la prière…",
