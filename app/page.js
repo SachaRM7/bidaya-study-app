@@ -31,7 +31,7 @@ const CHAPTERS = [
         title: "Bāb Qaḍā' al-Ḥāja — Faire ses besoins",
         dapibt: "3 ضوابط",
         content:
-          "Ḍābiṭ 1 — Ce qui est interdit (6 choses) :\n1. S'orienter vers la qibla ou lui tourner le dos sans écran.\n2. Faire ses besoins sur la voie publique, dans l'ombre ou les points d'eau des gens.\n3. Uriner dans l'eau stagnante.\n4. Dans les trous.\n5. Emporter ce qui contient le dhikr d'Allah.\n6. Se nettoyer avec la main droite.\n\nḌābiṭ 2 — Ce qui est interdit lors de l'istinjā' : se nettoyer avec moins de 3 pierres, ou avec un os ou une bouse.\n\nḌābiṭ 3 — Ce qui est recommandé (3 choses) :\n1. La basmala et l'isti'ādha avant d'entrer.\n2. Entrer du pied gauche et sortir du pied droit.\n3. Dire « ghufranaka » après être sorti.",
+          "Ḍābiṭ 1 — Ce qui est interdit (6 choses) :\n1. S'orienter vers la qibla ou lui tourner le dos sans écran.\n2. Faire ses besoins sur la voie publique, dans l'ombre ou les points d'eau des gens.\n3. Uriner dans l'eau stagnante.\n4. Dans les trous.\n5. Dans la mosquée (في المسجد).\n6. Se nettoyer avec des excréments, un os ou de la nourriture (الاستنجاء بروث أو عظم أو طعام).\n\nḌābiṭ 2 — Ce qui est makrūh (4 choses) :\n1. Parler pendant qu'on fait ses besoins.\n2. Uriner face au vent.\n3. Emporter ce qui contient le dhikr d'Allah.\n4. Se nettoyer avec la main droite (istinjā' bil-yamīn).\n\nḌābiṭ 3 — Ce qui est recommandé (3 choses) :\n1. La basmala et l'isti'ādha avant d'entrer.\n2. Entrer du pied gauche et sortir du pied droit.\n3. Dire « ghufranaka » après être sorti.",
       },
       {
         bab: "باب السواك وخصال الفطرة",
@@ -101,7 +101,11 @@ const CHAPTERS = [
       },
       {
         q: "Combien de choses sont interdites lors des besoins naturels ?",
-        a: "6 : s'orienter vers la qibla sans écran, voie publique/ombre/points d'eau, eau stagnante, trous, emporter le dhikr, se nettoyer de la main droite.",
+        a: "6 : s'orienter vers la qibla sans écran, voie publique/ombre/points d'eau, eau stagnante, trous, dans la mosquée, se nettoyer avec des excréments/un os/de la nourriture.",
+      },
+      {
+        q: "Combien de choses sont makrūh lors des besoins naturels (istinjā') ?",
+        a: "4 choses : parler pendant qu'on fait ses besoins, uriner face au vent, emporter ce qui contient le dhikr d'Allah, se nettoyer avec la main droite.",
       },
       {
         q: "Quelles sont les 6 obligations du wuḍū' ?",
