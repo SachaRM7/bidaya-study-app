@@ -100,12 +100,56 @@ const CHAPTERS = [
         a: "Les récipients en or et en argent.",
       },
       {
-        q: "Combien de choses sont interdites lors des besoins naturels ?",
-        a: "6 : s'orienter vers la qibla sans écran, voie publique/ombre/points d'eau, eau stagnante, trous, dans la mosquée, se nettoyer avec des excréments/un os/de la nourriture.",
+        q: "Les récipients des mécréants sont-ils purs ?",
+        a: "Oui, tant qu'on ne sait pas qu'ils les ont utilisés pour une impureté.",
       },
       {
-        q: "Combien de choses sont makrūh lors des besoins naturels (istinjā') ?",
-        a: "4 choses : parler pendant qu'on fait ses besoins, uriner face au vent, emporter ce qui contient le dhikr d'Allah, se nettoyer avec la main droite.",
+        q: "L'os, la corne, le sabot, les poisons et les plumes de la bête morte sont-ils purs ?",
+        a: "Oui, ils sont purs.",
+      },
+      {
+        q: "Les peaux des bêtes mortes sont-elles pures ?",
+        a: "Oui, après tannage (dibāgh).",
+      },
+      {
+        q: "Combien de choses sont harâm lors de qaḍā' al-ḥāja ?",
+        a: "6 choses : s'orienter vers la qibla/dos à la qibla sans écran, voie publique/ombre/points d'eau, eau stagnante, tombes, mosquée, se nettoyer avec excréments/os/nourriture.",
+      },
+      {
+        q: "Combien de choses sont makrūh lors de qaḍā' al-ḥāja ?",
+        a: "4 choses : parler pendant, uriner face au vent, emporter ce qui contient le dhikr d'Allah, se nettoyer avec la main droite.",
+      },
+      {
+        q: "De quel pied entre-t-on aux toilettes et quel pied en sort-on ?",
+        a: "On entre du pied gauche et on sort du pied droit.",
+      },
+      {
+        q: "Que dit-on après être sorti des toilettes ?",
+        a: "Ghufranaka (غفرانك).",
+      },
+      {
+        q: "Avec quoi est-il harâm de faire l'istinjā' ?",
+        a: "Avec de la bouse (rawth), un os ('aẓm) ou de la nourriture (ṭa'ām).",
+      },
+      {
+        q: "Combien de choses interdites sans wuḍū' ?",
+        a: "5 : la prière, le ṭawāf, toucher le muṣḥaf, la ridda, et un 5e variable selon les savants.",
+      },
+      {
+        q: "L'impureté (najāsa) disparaît-elle si l'odeur ou la couleur persiste ?",
+        a: "Oui, son statut disparaît avec la disparition de sa substance, même si l'odeur ou la couleur reste.",
+      },
+      {
+        q: "Faut-il un nombre précis de lavages pour enlever une impureté ?",
+        a: "Non, sauf pour la salive du chien dans un récipient : on lave 7 fois dont une avec de la terre.",
+      },
+      {
+        q: "Quelle différence entre l'urine du garçon et celle de la fille ?",
+        a: "Garçon : on l'asperge (naḍḥ). Fille : on la lave (ghasl).",
+      },
+      {
+        q: "La transformation (istiḥāla) purifie-t-elle ?",
+        a: "Oui.",
       },
       {
         q: "Quelles sont les 6 obligations du wuḍū' ?",
@@ -140,14 +184,92 @@ const CHAPTERS = [
         a: "Résident : 1 jour et 1 nuit. Voyageur : 3 jours et 3 nuits.",
       },
       {
+        q: "Quels sont les 3 types de sang qui sortent de la femme ?",
+        a: "Ḥayḍ (menstrues), nifās (lochies), istiḥāḍa (saignement irrégulier).",
+      },
+      {
         q: "Qu'est-ce qui est interdit pendant le ḥayḍ ?",
         a: "6 choses : rapport intime, divorce, prière, jeûne, ṭawāf, rester dans la mosquée.",
+      },
+      {
+        q: "Après l'arrêt du sang et avant le ghusl, combien de choses redeviennent permises ?",
+        a: "3 choses : le jeûne, le divorce, et un 3e point qui varie selon les savants.",
       },
     ],
     quiz: [
       {
         question: "Combien de catégories d'eau y a-t-il ?",
         options: ["2", "3", "4", "5"],
+        correct: 1,
+      },
+      {
+        question: "Quels récipients sont interdits d'utilisation ?",
+        options: ["Ceux en cuivre", "Ceux en or et en argent", "Ceux en bois", "Ceux en terre"],
+        correct: 1,
+      },
+      {
+        question: "Les récipients des mécréants sont-ils purs ?",
+        options: ["Non, jamais", "Oui, tant qu'on ne sait pas qu'ils les ont utilisés pour une impureté", "Non, seulement s'ils sont neufs", "Oui, toujours"],
+        correct: 1,
+      },
+      {
+        question: "L'os, la corne, le sabot, les poisons et les plumes de la bête morte sont-ils purs ?",
+        options: ["Non", "Oui", "Seuls l'os et la corne", "Uniquement après tannage"],
+        correct: 1,
+      },
+      {
+        question: "Les peaux des bêtes mortes sont-elles pures ?",
+        options: ["Non, jamais", "Oui, après tannage (dibāgh)", "Seules celles des ruminants", "Uniquement après lavage"],
+        correct: 1,
+      },
+      {
+        question: "Combien de choses sont harâm lors de qaḍā' al-ḥāja ?",
+        options: ["4", "5", "6", "8"],
+        correct: 2,
+      },
+      {
+        question: "De quel pied entre-t-on aux toilettes ?",
+        options: ["Le pied droit", "Le pied gauche", "Les deux indifféremment", "Cela n'a pas d'importance"],
+        correct: 1,
+      },
+      {
+        question: "Que dit-on après être sorti des toilettes ?",
+        options: ["Alhamdulillah", "Ghufranaka (غفرانك)", "La ilaha illa Allah", "SubhanAllah"],
+        correct: 1,
+      },
+      {
+        question: "Se nettoyer avec la main droite (istinjā' bil-yamīn) est…",
+        options: ["Harâm", "Makrūh (détesté)", "Permis", "Sunna"],
+        correct: 1,
+      },
+      {
+        question: "Combien de choses sont makrūh lors de qaḍā' al-ḥāja ?",
+        options: ["2", "3", "4", "5"],
+        correct: 2,
+      },
+      {
+        question: "Avec quoi est-il harâm de faire l'istinjā' ?",
+        options: ["Avec du papier", "Avec de l'eau", "Avec de la bouse, un os ou de la nourriture", "Avec des pierres"],
+        correct: 2,
+      },
+      {
+        question: "L'impureté (najāsa) disparaît-elle si l'odeur ou la couleur persiste ?",
+        options: ["Non, jamais", "Oui, avec la disparition de sa substance", "Non, il faut que tout disparaisse", "Cela dépend du type d'impureté"],
+        correct: 1,
+      },
+      {
+        question: "Faut-il un nombre précis de lavages pour enlever une impureté ?",
+        options: ["Oui, toujours 3 fois", "Non, sauf pour la salive du chien : 7 fois dont une avec terre", "Oui, toujours 7 fois", "Non, un seul lavage suffit"],
+        correct: 1,
+      },
+      {
+        question: "Quelle est la différence entre l'urine du garçon et celle de la fille ?",
+        options: ["Aucune, même traitement", "Garçon : on l'asperge. Fille : on la lave", "Garçon : on la lave. Fille : on l'asperge", "Les deux se lavent"],
+        correct: 1,
+      },
+      {
+        question: "La transformation (istiḥāla) purifie-t-elle ?",
+        options: ["Non", "Oui", "Seulement pour le vin", "Uniquement pour les métaux"],
         correct: 1,
       },
       {
@@ -161,23 +283,28 @@ const CHAPTERS = [
         correct: 1,
       },
       {
+        question: "Combien de conditions de validité pour le wuḍū' ?",
+        options: ["5", "6", "7", "8"],
+        correct: 2,
+      },
+      {
+        question: "Combien d'annulatifs du wuḍū' ?",
+        options: ["4", "5", "6", "8"],
+        correct: 2,
+      },
+      {
         question: "Combien de choses rendent le ghusl obligatoire ?",
         options: ["3", "4", "5", "6"],
         correct: 2,
       },
       {
         question: "Quelle est l'unique obligation (farḍ) du ghusl ?",
-        options: ["La niyya", "Le wuḍū' avant", "Faire parvenir l'eau à tout le corps", "Le dalk"],
+        options: ["La niyya", "Le wuḍū' avant", "Faire parvenir l'eau à tout le corps", "Le dalk (frotter)"],
         correct: 2,
       },
       {
         question: "Durée du masḥ pour le voyageur ?",
         options: ["1 jour et 1 nuit", "2 jours et 2 nuits", "3 jours et 3 nuits", "Illimité"],
-        correct: 2,
-      },
-      {
-        question: "Combien d'annulatifs du wuḍū' ?",
-        options: ["4", "5", "6", "8"],
         correct: 2,
       },
       {
@@ -193,6 +320,21 @@ const CHAPTERS = [
       {
         question: "Le siwāk est recommandé dans combien de situations ?",
         options: ["4", "5", "6", "8"],
+        correct: 2,
+      },
+      {
+        question: "Quels sont les 3 types de sang qui sortent de la femme ?",
+        options: ["Ḥayḍ, nifās, istiḥāḍa", "Istiḥāḍa, nifās, janāba", "Ḥayḍ, janāba, istiḥāḍa", "Nifās, janāba, ḥayḍ"],
+        correct: 0,
+      },
+      {
+        question: "Combien de choses sont interdites pendant le ḥayḍ ?",
+        options: ["4", "5", "6", "7"],
+        correct: 2,
+      },
+      {
+        question: "Après l'arrêt du sang et avant le ghusl, combien de choses redeviennent permises ?",
+        options: ["1", "2", "3", "4"],
         correct: 2,
       },
     ],
