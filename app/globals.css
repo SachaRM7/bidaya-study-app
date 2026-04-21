@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --font-amiri: "Amiri", serif;
+  --font-source-serif: "Source Serif 4", serif;
+  --font-outfit: "Outfit", sans-serif;
+}
