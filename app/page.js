@@ -24,7 +24,7 @@ const CHAPTERS = [
         title: "Bāb al-Āniya — Les récipients",
         dapibt: "5 ضوابط",
         content:
-          "Ḍābiṭ 1 : Il est permis d'utiliser tous les récipients sauf ceux en or et en argent.\nḌābiṭ 2 : Les récipients des mécréants sont purs tant qu'on ne sait pas qu'ils les ont utilisés pour une impureté.\nḌābiṭ 3 : L'os de la bête morte, sa corne, son sabot, ses poisons, sa laine et ses plumes sont purs.\nḌābiṭ 4 : Les peaux des bêtes mortes sont pures après tannage, sauf le chien et le porc.\nḌābiṭ 5 : Il est sunna de couvrir les récipients, fermer les outres, fermer les portes, et mentionner le nom d'Allah dessus avant de dormir.",
+          "Ḍābiṭ 1 : Il est permis d'utiliser tous les récipients sauf ceux en or et en argent.\n\nḌābiṭ 2 : Les récipients des mécréants sont purs tant qu'on ne sait pas qu'ils les ont utilisés pour une impureité.\n\nḌābiṭ 3 : L'os de la bête morte, sa corne, son sabot, ses poisons, sa laine et ses plumes sont purs.\n\nḌābiṭ 4 : Les peaux des bêtes mortes sont pures après tannage, sauf le chien et le porc.\n\nḌābiṭ 5 : Il est sunna de couvrir les récipients, fermer les outres, fermer les portes, et mentionner le nom d'Allah dessus avant de dormir.",
       },
       {
         bab: "باب قضاء الحاجة",
@@ -80,7 +80,7 @@ const CHAPTERS = [
         title: "Bāb Izālat al-Najāsa",
         dapibt: "4 ضوابط",
         content:
-          "Ḍābiṭ 1 : La najāsa est une substance jugée impure par la sharī'a. Son impureté disparaît avec la disparition de ses traces, même sans eau (بغير ماء).\nḌābiṭ 2 : Il n'est pas exigé de nombre précis ni d'ordre dans le lavage, sauf pour la salive du chien dans un récipient : on lave 7 fois dont une avec de la terre.\nḌābiṭ 3 : L'urine du garçon qui ne mange pas encore : on l'asperge (naḍḥ). L'urine de la fille : on lave.\nḌābiṭ 4 : La transformation (istiḥāla) purifie.",
+          "Ḍābiṭ 1 : La najāsa est une substance jugée impure par la sharī'a. Son impureté disparaît avec la disparition de ses traces, même sans eau (بغير ماء).\n\nḌābiṭ 2 : Il n'est pas exigé de nombre précis ni d'ordre dans le lavage, sauf pour la salive du chien dans un récipient : on lave 7 fois dont une avec de la terre.\n\nḌābiṭ 3 : L'urine du garçon qui ne mange pas encore : on l'asperge (naḍḥ). L'urine de la fille : on lave.\n\nḌābiṭ 4 : La transformation (istiḥāla) purifie.",
       },
       {
         bab: "باب الحيض",
