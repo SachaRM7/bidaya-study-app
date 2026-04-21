@@ -22,9 +22,9 @@ const CHAPTERS = [
       {
         bab: "باب الآنية",
         title: "Bāb al-Āniya — Les récipients",
-        dapibt: "4 ضوابط",
+        dapibt: "5 ضوابط",
         content:
-          "Ḍābiṭ 1 : Il est permis d'utiliser tous les récipients sauf ceux en or et en argent.\nḌābiṭ 2 : Les récipients des mécréants sont purs tant qu'on ne sait pas qu'ils les ont utilisés pour une impureté.\nḌābiṭ 3 : L'os de la bête morte, sa corne, son sabot, ses poisons, sa laine et ses plumes sont purs.\nḌābiṭ 4 : Les peaux des bêtes mortes sont pures après tannage.",
+          "Ḍābiṭ 1 : Il est permis d'utiliser tous les récipients sauf ceux en or et en argent.\nḌābiṭ 2 : Les récipients des mécréants sont purs tant qu'on ne sait pas qu'ils les ont utilisés pour une impureté.\nḌābiṭ 3 : L'os de la bête morte, sa corne, son sabot, ses poisons, sa laine et ses plumes sont purs.\nḌābiṭ 4 : Les peaux des bêtes mortes sont pures après tannage, sauf le chien et le porc.\nḌābiṭ 5 : Il est sunna de couvrir les récipients, fermer les outres, fermer les portes, et mentionner le nom d'Allah dessus avant de dormir.",
       },
       {
         bab: "باب قضاء الحاجة",
@@ -38,56 +38,56 @@ const CHAPTERS = [
         title: "Bāb al-Siwāk wa Khiṣāl al-Fiṭra",
         dapibt: "2 ضوابط",
         content:
-          "Ḍābiṭ 1 — Moments où le siwāk est fortement recommandé (6) :\n1. Lors du wuḍū'.\n2. Avant la prière.\n3. Au réveil.\n4. Avant la lecture du Coran.\n5. En entrant à la maison.\n6. Quand l'haleine change.\n\nḌābiṭ 2 — Les 5 actes de la fiṭra :\n1. L'istiḥdād (se raser le pubis).\n2. Le khitān (circoncision).\n3. Le qass al-shārib (tailler la moustache).\n4. Le taqlīm al-aẓfār (couper les ongles).\n5. Le natf al-ibṭ (épiler les aisselles).",
+          "Ḍābiṭ 1 — Moments où le siwāk est fortement recommandé (6) :\n1. Lors du wuḍū'.\n2. Avant la prière.\n3. Au réveil.\n4. Avant la lecture du Coran.\n5. En entrant à la maison.\n6. Quand l'haleine change.\n\nḌābiṭ 2 — Les 5 actes de la fiṭra :\n1. Le khitān (circoncision).\n2. L'istiḥdād (se raser le pubis).\n3. Le natf al-ibṭ (épiler les aisselles).\n4. Le qass al-shārib (tailler la moustache).\n5. Le taqlīm al-aẓfār (couper les ongles).",
       },
       {
         bab: "باب الوضوء",
         title: "Bāb al-Wuḍū' — Les ablutions",
         dapibt: "3 ضوابط",
         content:
-          "Ḍābiṭ 1 — Les obligations du wuḍū' (6) :\n1. Laver le visage (de la basmala de la bouche au nez inclus).\n2. Laver les mains et avant-bras jusqu'aux coudes.\n3. Essuyer la tête et les oreilles.\n4. Laver les pieds jusqu'aux chevilles.\n5. Le tartīb (ordre).\n6. La muwālāt (enchaînement sans interruption).\n\nḌābiṭ 2 — Les conditions de validité du wuḍū' (7) :\n1. Cessation de ce qui l'oblige (ex: l'urine doit s'arrêter).\n2. L'islam.\n3. La niyya (intention).\n4. La raison.\n5. Le tamyīz (discernement).\n6. L'eau ṭahūr.\n7. L'absence de ce qui empêche l'eau d'atteindre la peau.\n\nḌābiṭ 3 — Les sunan du wuḍū' (8) :\n1. La tasmiya (basmala).\n2. Le siwāk.\n3. Commencer par le rinçage de la bouche et du nez avant le visage.\n4. Commencer par la droite avant la gauche.\n5. Laver 3 fois (la 2e et 3e fois).\n6. Le dalk (frotter les membres).\n7. Le du'ā' après le wuḍū'.",
+          "Ḍābiṭ 1 — Les obligations du wuḍū' (6) :\n1. Laver le visage (de la basmala de la bouche au nez inclus).\n2. Laver les mains et avant-bras jusqu'aux coudes, en passant les doigts entre les doigts (تخليل الأصابع).\n3. Essuyer la tête et les oreilles.\n4. Laver les pieds jusqu'aux chevilles, en passant les doigts entre les orteils (تخليل الأصابع في الرجلين).\n5. Le tartīb (ordre).\n6. La muwālāt (enchaînement sans interruption).\n\nḌābiṭ 2 — Les conditions de validité du wuḍū' (7) :\n1. Cessation de ce qui l'oblige (ex: l'urine doit s'arrêter).\n2. L'islam.\n3. La niyya (intention).\n4. La raison.\n5. Le tamyīz (discernement).\n6. L'eau ṭahūr.\n7. L'absence de ce qui empêche l'eau d'atteindre la peau.\n\nḌābiṭ 3 — Les sunan du wuḍū' (10) :\n1. La tasmiya (basmala).\n2. Le siwāk.\n3. Laver les paumes (ghusl al-kaffayn).\n4. Commencer par le rinçage de la bouche et du nez avant le visage.\n5. Exagérer le rinçage bouche/nez sauf pour le jeûneur (المبالغة فيهما لغير الصائم).\n6. Passer les doigts dans la barbe épaisse (تخليل اللحية الكثيفة).\n7. Commencer par la droite avant la gauche.\n8. Laver 3 fois (la 2e et 3e fois).\n9. Le dalk (frotter les membres).\n10. Le du'ā' après le wuḍū'.",
       },
       {
         bab: "باب المسح على الخفين",
         title: "Bāb al-Masḥ 'alā al-Khuffayn",
         dapibt: "3 ضوابط",
         content:
-          "Ḍābiṭ 1 — Conditions du masḥ sur les khuff :\n- Les avoir enfilés en état de pureté.\n- Qu'ils couvrent les pieds jusqu'aux chevilles.\n- Qu'ils soient purs.\n\nḌābiṭ 2 — Annulatifs du masḥ (3) :\n1. Le ḥadath al-akbar (grande impureté).\n2. L'expiration du délai.\n3. Le retrait du khuff.\n\nḌābiṭ 3 — Durée : le résident essuie un jour et une nuit, le voyageur trois jours et trois nuits.",
+          "Ḍābiṭ 1 — Conditions du masḥ sur les khuff :\n- Les avoir enfilés en état de pureté.\n- Qu'ils couvrent la majorité de la zone farḍ (awra).\n- Qu'ils soient purs.\n\nḌābiṭ 2 — Annulatifs du masḥ (3) :\n1. Le ḥadath al-akbar (grande impureté).\n2. L'expiration du délai.\n3. Le retrait du khuff.\n\nḌābiṭ 3 — Durée : le résident essuie un jour et une nuit, le voyageur trois jours et trois nuits.",
       },
       {
         bab: "باب نواقض الوضوء",
         title: "Bāb Nawāqiḍ al-Wuḍū'",
         dapibt: "2 ضوابط",
         content:
-          "Ḍābiṭ 1 — Les annulatifs du wuḍū' (6) :\n1. Ce qui sort des deux voies naturelles.\n2. La perte de raison ou sa mise en veille (évanouissement, sommeil profond).\n3. Toucher le sexe avec l'intérieur de la paume.\n4. Manger de la viande de chameau.\n5. La ridda (apostasie).\n6. Laver un mort (selon un avis).\n\nḌābiṭ 2 — Ce qui est interdit sans wuḍū' (5) :\n1. La prière.\n2. Le ṭawāf.\n3. Toucher le muṣḥaf.\n4. La ridda.\n5. (variable selon les savants).",
+          "Ḍābiṭ 1 — Les annulatifs du wuḍū' (6) :\n1. Ce qui sort des deux voies naturelles.\n2. La perte de raison ou sa mise en veille (évanouissement, sommeil profond).\n3. Toucher le sexe avec l'intérieur de la paume.\n4. Manger de la viande de chameau.\n5. La rencontre des deux circoncisions (التقاء الختانين — pénétration).\n6. La ridda (apostasie).\n\nḌābiṭ 2 — Ce qui est interdit sans wuḍū' (3) :\n1. La prière.\n2. Le ṭawāf.\n3. Toucher le muṣḥaf.",
       },
       {
         bab: "باب الغسل",
         title: "Bāb al-Ghusl — Les grandes ablutions",
-        dapibt: "4 ضوابط",
+        dapibt: "5 ضوابط",
         content:
-          "Ḍābiṭ 1 — Ce qui rend le ghusl obligatoire (5) :\n1. La sortie du manī (sperme).\n2. La pénétration (rencontre des deux circoncisions).\n3. Les menstrues (ḥayḍ).\n4. Les lochies (nifās).\n5. L'entrée en islam du mécréant.\n\nḌābiṭ 2 — Conditions de validité du ghusl (7) :\n1. La niyya.\n2. L'islam.\n3. Cessation de ce qui l'oblige.\n4. La raison.\n5. L'eau ṭahūr.\n6. Le tamyīz.\n7. L'absence de ce qui empêche l'eau d'atteindre la peau.\n\nḌābiṭ 3 — L'obligation du ghusl (1) :\nFaire parvenir l'eau à tout le corps (ta'mīm al-badan bi-l-mā').\n\nḌābiṭ 4 — Les sunan du ghusl (7) :\n1. Enlever les impuretés d'abord.\n2. Faire le wuḍū' avant (en laissant les pieds).\n3. Laver les membres 3 fois.\n4. Commencer par la droite (tayāmun).\n5. La muwālāt.\n6. Le dalk (frotter).\n7. Laver les pieds à la fin.",
+          "Ḍābiṭ 1 — Ce qui rend le ghusl obligatoire (5) :\n1. La sortie du manī (sperme).\n2. La pénétration (rencontre des deux circoncisions).\n3. Les menstrues (ḥayḍ).\n4. Les lochies (nifās).\n5. L'entrée en islam du mécréant.\n\nḌābiṭ 2 — Conditions de validité du ghusl (7) :\n1. La niyya.\n2. L'islam.\n3. Cessation de ce qui l'oblige.\n4. La raison.\n5. L'eau ṭahūr.\n6. Le tamyīz.\n7. L'absence de ce qui empêche l'eau d'atteindre la peau.\n\nḌābiṭ 3 — L'obligation du ghusl (1) :\nFaire parvenir l'eau à tout le corps (ta'mīm al-badan bi-l-mā').\n\nḌābiṭ 4 — Les sunan du ghusl (7) :\n1. Enlever les impuretés d'abord.\n2. Faire le wuḍū' avant (en laissant les pieds).\n3. Laver les membres 3 fois.\n4. Commencer par la droite (tayāmun).\n5. La muwālāt.\n6. Le dalk (frotter).\n7. Laver les pieds dans un autre endroit (ghusl al-rijlayn bi-makān ākhar).\n\nḌābiṭ 5 — Les ghusl recommandés (9) :\n1. Ghusl al-jumu'a.\n2. Celui qui a lavé un mort.\n3. Les deux 'īd.\n4. Après un évanouissement.\n5. Après la folie.\n6. La mustaḥāḍa pour chaque prière.\n7. Pour l'iḥrām.\n8. Pour l'entrée à La Mecque.\n9. Pour la station à 'Arafa.",
       },
       {
         bab: "باب التيمم",
         title: "Bāb al-Tayammum",
         dapibt: "3 ضوابط",
         content:
-          "Ḍābiṭ 1 — Conditions de validité du tayammum (6) :\n1. La niyya.\n2. L'islam.\n3. La raison.\n4. Le tamyīz.\n5. L'absence d'eau ou l'impossibilité de l'utiliser.\n6. Utiliser un sol pur ayant de la poussière (ṣa'īd ṭāhir).\n\nḌābiṭ 2 — Les obligations du tayammum (3) :\n1. Essuyer le visage.\n2. Essuyer les mains jusqu'aux coudes (selon un avis : jusqu'aux poignets).\n3. La muwālāt.\n\nḌābiṭ 3 — Ce qui annule le tayammum :\n1. Tout ce qui annule le wuḍū'.\n2. La présence d'eau (disparition de l'excuse).",
+          "Ḍābiṭ 1 — Conditions de validité du tayammum (6) :\n1. La niyya.\n2. L'islam.\n3. La raison.\n4. Le tamyīz.\n5. L'absence d'eau ou l'impossibilité de l'utiliser.\n6. Utiliser un sol pur ayant de la poussière (ṣa'īd ṭāhir).\n\nḌābiṭ 2 — Les obligations du tayammum (3) :\n1. Essuyer le visage.\n2. Essuyer les mains jusqu'aux poignets (الرسغين).\n3. La muwālāt.\n\nḌābiṭ 3 — Ce qui annule le tayammum (3) :\n1. Tout ce qui annule le wuḍū'.\n2. La présence d'eau (disparition de l'excuse).\n3. زوال المبيح — la disparition de ce qui rendait le tayammum permis (l'excuse).",
       },
       {
         bab: "باب إزالة النجاسة",
         title: "Bāb Izālat al-Najāsa",
         dapibt: "4 ضوابط",
         content:
-          "Ḍābiṭ 1 : La najāsa est une substance jugée impure par la sharī'a. Son impureté disparaît avec la disparition de ses traces, même si l'odeur ou la couleur persiste.\nḌābiṭ 2 : Il n'est pas exigé de nombre précis ni d'ordre dans le lavage, sauf pour la salive du chien dans un récipient : on lave 7 fois dont une avec de la terre.\nḌābiṭ 3 : L'urine du garçon qui ne mange pas encore : on l'asperge (naḍḥ). L'urine de la fille : on lave.\nḌābiṭ 4 : La transformation (istiḥāla) purifie.",
+          "Ḍābiṭ 1 : La najāsa est une substance jugée impure par la sharī'a. Son impureté disparaît avec la disparition de ses traces, même sans eau (بغير ماء).\nḌābiṭ 2 : Il n'est pas exigé de nombre précis ni d'ordre dans le lavage, sauf pour la salive du chien dans un récipient : on lave 7 fois dont une avec de la terre.\nḌābiṭ 3 : L'urine du garçon qui ne mange pas encore : on l'asperge (naḍḥ). L'urine de la fille : on lave.\nḌābiṭ 4 : La transformation (istiḥāla) purifie.",
       },
       {
         bab: "باب الحيض",
         title: "Bāb al-Ḥayḍ — Les menstrues",
         dapibt: "3 ضوابط",
         content:
-          "Ḍābiṭ 1 — Les sangs qui sortent de la femme sont de 3 types :\n1. Ḥayḍ (menstrues).\n2. Nifās (lochies).\n3. Istiḥāḍa (saignement irrégulier).\n\nḌābiṭ 2 — Ce qui est interdit pendant le ḥayḍ (6) :\n1. Le rapport intime.\n2. Le divorce.\n3. La prière.\n4. Le jeûne.\n5. Le ṭawāf.\n6. Rester dans la mosquée.\n\nḌābiṭ 3 — Après l'arrêt du sang et avant le ghusl, 3 choses deviennent permises :\n1. Le jeûne.\n2. Le divorce.\n3. (Le 3e point varie selon les savants).",
+          "Ḍābiṭ 1 — Les sangs qui sortent de la femme sont de 3 types :\n1. Ḥayḍ (menstrues).\n2. Nifās (lochies).\n3. Istiḥāḍa (saignement irrégulier).\n\nḌābiṭ 2 — Ce qui est interdit pendant le ḥayḍ (7) :\n1. Le rapport intime.\n2. Le divorce.\n3. La prière.\n4. Le jeûne.\n5. Le ṭawāf.\n6. Rester dans la mosquée.\n7. Toucher le muṣḥaf (مس المصحف).\n\nḌābiṭ 3 — Après l'arrêt du sang et avant le ghusl, 3 choses deviennent permises :\n1. Le jeûne.\n2. Le divorce.\n3. المكث في المسجد بوضوء — rester dans la mosquée avec wuḍū'.",
       },
     ],
     flashcards: [
@@ -133,11 +133,11 @@ const CHAPTERS = [
       },
       {
         q: "Combien de choses interdites sans wuḍū' ?",
-        a: "5 : la prière, le ṭawāf, toucher le muṣḥaf, la ridda, et un 5e variable selon les savants.",
+        a: "3 : la prière, le ṭawāf, toucher le muṣḥaf.",
       },
       {
         q: "L'impureté (najāsa) disparaît-elle si l'odeur ou la couleur persiste ?",
-        a: "Oui, son statut disparaît avec la disparition de sa substance, même si l'odeur ou la couleur reste.",
+        a: "Oui, son statut disparaît avec la disparition de sa substance, même sans eau (بغير ماء).",
       },
       {
         q: "Faut-il un nombre précis de lavages pour enlever une impureté ?",
@@ -161,7 +161,7 @@ const CHAPTERS = [
       },
       {
         q: "Quels sont les annulatifs du wuḍū' ?",
-        a: "6 : sortie des deux voies, perte de raison/sommeil profond, toucher le sexe (intérieur paume), viande de chameau, ridda, laver un mort.",
+        a: "6 : sortie des deux voies, perte de raison/sommeil profond, toucher le sexe (intérieur paume), viande de chameau, rencontre des deux circoncisions (التقاء الختانين), ridda.",
       },
       {
         q: "Qu'est-ce qui rend le ghusl obligatoire ?",
@@ -176,8 +176,8 @@ const CHAPTERS = [
         a: "Niyya, islam, raison, tamyīz, absence d'eau/impossibilité, sol pur avec poussière.",
       },
       {
-        q: "Quelles sont les 5 khiṣāl al-fiṭra ?",
-        a: "Istiḥdād (raser le pubis), khitān (circoncision), qass al-shārib (moustache), taqlīm al-aẓfār (ongles), natf al-ibṭ (aisselles).",
+        q: "Quelles sont les 5 khiṣāl al-fiṭra dans l'ordre du livre ?",
+        a: "1. Le khitān (circoncision), 2. L'istiḥdād (raser le pubis), 3. Le natf al-ibṭ (épiler les aisselles), 4. Le qass al-shārib (tailler la moustache), 5. Le taqlīm al-aẓfār (couper les ongles).",
       },
       {
         q: "Combien de temps dure le masḥ sur les khuff ?",
@@ -189,11 +189,11 @@ const CHAPTERS = [
       },
       {
         q: "Qu'est-ce qui est interdit pendant le ḥayḍ ?",
-        a: "6 choses : rapport intime, divorce, prière, jeûne, ṭawāf, rester dans la mosquée.",
+        a: "7 choses : rapport intime, divorce, prière, jeûne, ṭawāf, rester dans la mosquée, toucher le muṣḥaf.",
       },
       {
         q: "Après l'arrêt du sang et avant le ghusl, combien de choses redeviennent permises ?",
-        a: "3 choses : le jeûne, le divorce, et un 3e point qui varie selon les savants.",
+        a: "3 choses : le jeûne, le divorce, et rester dans la mosquée avec wuḍū' (المكث في المسجد بوضوء).",
       },
     ],
     quiz: [
@@ -251,6 +251,11 @@ const CHAPTERS = [
         question: "Avec quoi est-il harâm de faire l'istinjā' ?",
         options: ["Avec du papier", "Avec de l'eau", "Avec de la bouse, un os ou de la nourriture", "Avec des pierres"],
         correct: 2,
+      },
+      {
+        question: "Combien de choses sont interdites sans wuḍū' ?",
+        options: ["2", "3", "4", "5"],
+        correct: 1,
       },
       {
         question: "L'impureté (najāsa) disparaît-elle si l'odeur ou la couleur persiste ?",
@@ -330,7 +335,7 @@ const CHAPTERS = [
       {
         question: "Combien de choses sont interdites pendant le ḥayḍ ?",
         options: ["4", "5", "6", "7"],
-        correct: 2,
+        correct: 3,
       },
       {
         question: "Après l'arrêt du sang et avant le ghusl, combien de choses redeviennent permises ?",
