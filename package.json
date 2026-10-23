@@ -8,8 +8,16 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "15.5.15",
+    "next": "15.5.28",
     "react": "19.0.0",
     "react-dom": "19.0.0"
+  },
+  "engines": {
+    "node": "^24.22.1"
+  },
+  "overrides": {
+    "next": {
+      "postcss": "8.5.31"
+    }
   }
 }
